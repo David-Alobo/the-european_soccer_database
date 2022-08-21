@@ -3,7 +3,8 @@
 ## Introduction
 
 In this project, I analyzed a dataset and then communicated my findings about it using the Python libraries NumPy, pandas, and Matplotlib to make the analysis easier. I went through the data analysis process and see how everything fits together.
-In this research, I used Jupyter Notebook to examine a Kaggle dataset called the European Soccer Database. I chose this dataset since it required SQL to combine the tables, I enjoy sports, and I hope to employ Artificial Intelligence and Machine Learning to improve team performance and forecast game outcomes in the near future.
+
+In this research, I used Jupyter Notebook to examine a Kaggle dataset called the European Soccer Database. I chose this dataset since it required SQL to combine the tables, my love for sports, and my desire to employ Artificial Intelligence and Machine Learning to improve team performance and forecast game outcomes in the near future.
 
 This project, seek to provide answers to the following questions below:
 
@@ -11,7 +12,7 @@ This project, seek to provide answers to the following questions below:
 - Which players had the most penalties? 
 - What team attributes lead to the most victories?
 
-## Objectives
+## Objectives of this Project
 
 - Identify the steps involved in a typical data analysis process
 - To be comfortable posing questions that can be answered with a given dataset and then answering those questions
