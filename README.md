@@ -43,9 +43,9 @@ Now more than ever, the need for data analytics in making key critical decisions
 
 In this research, I analyzed an European Soccer Dataset from kaggle. Below are some of our key findings:
 
-- The most improved team with respect to goals scored is FC Barcelona of Spain across all seasons (see Fig. 2) 
+- The most improved team with respect to goals scored is FC Barcelona of Spain across all seasons
 - From the correlation analysis, it was observed that the improvement of teams across the seasons is as a result of their ability to score away goals (See Fig. 4)
-- The player with the highest penalty is Edinho (See Fig. 3)
+- The player with the highest penalty is Edinho
 
 ## Limitations
 
