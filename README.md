@@ -1,4 +1,4 @@
-#The Europen Soccer Dataset
+# The Europen Soccer Dataset
 ### by David Alobo
 ## Introduction
 
